@@ -18,7 +18,6 @@ Linguagens: HTML, CSS, Bootstrap, JS, PHP, MYSQL
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://davi7071.github.io/portfolio/)
   ㅤ
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/davi-falabella-oliveira-89b4442b9)
 </div>
 
 ## Tecnologias Mais Utilizadas 👨‍💻
