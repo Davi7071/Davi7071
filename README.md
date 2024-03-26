@@ -4,8 +4,6 @@
 
 <h3 align="center">A passionate developer from Brazil</h3>
 
-<br/>
-
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -20,7 +18,7 @@
 <div align="center">
   <h2>Portfolio</h2>
     
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://davi7071.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#24BCF7)](https://davi7071.github.io/portfolio/)
   ㅤ
 </div>
 
