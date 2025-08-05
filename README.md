@@ -20,6 +20,6 @@
 
 ## 🌐 Portfolio
 
-- [**Portfolio Website**]((https://davi7071.github.io/portfolio1/)) 
+- [**Portfolio Website**]([(https://davi7071.github.io/portfolio1/)](https://davi7071.github.io/portfolio1/)) 
 
 
