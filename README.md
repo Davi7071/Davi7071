@@ -1,8 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🤓;+I'm+Davi!" alt="Typing SVG" />
-</h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🤓;+I'm+Davi!&color=13d120" alt="Typing SVG" />
 
-<h3 align="center">💻 A passionate developer from Brazil 💻</h3>
+</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6A0DAD,50:8A2BE2,100:9B30FF&text=Full%20Stack&section=header&reversal=false&textBg=false&desc=👨‍💻%20A%20passionate%20developer%20from%20Brazil%20👨‍💻&descSize=30&descAlignY=70&fontColor=FFFFFF"/>
+
 
 ---
 
