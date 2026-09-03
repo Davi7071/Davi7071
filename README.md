@@ -27,7 +27,7 @@
   </div>
 </div>
 
-
+![snake gif](https://raw.githubusercontent.com/Davi7071/Davi7071/output/github-contribution-grid-snake.svg)
 
 
 ---
